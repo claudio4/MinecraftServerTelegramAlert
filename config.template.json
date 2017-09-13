@@ -1,0 +1,21 @@
+{
+  "alerts": {
+    "players-join-or-exit": {
+      "active": true,
+      "include-online-players-list": true
+    },
+    "mention-on-server-online-status-change": true
+  },
+  "server": "your-server-ip",
+  "port": 25565,
+  "chats": [
+    {
+      "id": 0,
+      "isGroupChat": true,
+      "sendMessages": true
+    }
+  ],
+  "minecraft-polling-ratio": 3000,
+  "bot-token": "your-bot-token",
+  "telegram-polling-ratio": 1000
+}
