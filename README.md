@@ -3,10 +3,10 @@ This project was created quickly for a friend, it should work fine but it is not
 
 ## Instalation
 
-```npm install```
+>npm install
 
-```npm run build```
+>npm run build
 
 Now copy the config.template.json and rename the copy to `config.json`, edit it with your data.
 
-```npm run start```
+>npm run start
