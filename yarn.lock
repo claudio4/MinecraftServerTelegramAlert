@@ -1630,8 +1630,8 @@ nodemon@^1.12.0:
     update-notifier "^2.2.0"
 
 "nodetgbot@git+https://github.com/claudio4/NodeTgBot.git":
-  version "1.0.1"
-  resolved "git+https://github.com/claudio4/NodeTgBot.git#b5ba50429b3a9de4b59d7489ba0bba50a6b93721"
+  version "1.0.2"
+  resolved "git+https://github.com/claudio4/NodeTgBot.git#67bfc12f7dcf19e837a9e2d8333037ad37781780"
   dependencies:
     babel-cli "^6.26.0"
     babel-preset-env "^1.6.0"
