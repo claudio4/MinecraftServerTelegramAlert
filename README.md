@@ -1,5 +1,5 @@
 # MinecraftServerTelegramAlert
-This project was created quickly for a friend, it should work fine but it is not recommended reutilize the source code cause of it has a bad code quality.
+This project was created quickly to help a friend. While it should work as intended, the code quality is not up to standard. Reusing the source code is not recommended.
 
 ## Instalation
 
@@ -7,6 +7,6 @@ This project was created quickly for a friend, it should work fine but it is not
 
 >npm run build
 
-Now copy the config.template.json and rename the copy to `config.json`, edit it with your data.
+Now create a copy of config.template.json with the name `config.json`. Adjust it with your preferences and credentials.
 
 >npm run start
